@@ -1,0 +1,194 @@
+*{
+  margin:0px;
+  padding: 0px;
+  border: 0px;
+}
+
+ 
+.uma-div{
+  position: relative;
+  width: 50vw;
+  margin: 0 auto;
+  height: 10vh;
+}
+ 
+ .col{
+  background-color: black;
+  border: 2px solid transparent;
+}
+
+.row{
+  border: 2px solid;
+  border: transparent;
+}
+
+#img-fundo{
+  background-color: blue;
+  background-image: url("../imagens/menina-correndo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 87vh;
+
+  background-position: center;
+  box-sizing: border-box;
+}
+
+
+
+.center{
+  margin: auto;
+}
+
+.detalhes{
+ 
+  height: 5vh;
+  box-sizing: border-box;
+  background-size: cover;
+}
+
+.detalhes1{
+ 
+  height: 1vh;
+  width: 1vw;
+  box-sizing: border-box;
+  background-size: cover;
+}
+
+.btn{
+  width: 30vw;
+  height: 9vh;
+  background-size: contain;
+  margin-right: 4vw;
+ margin-bottom: 3vh;
+ margin-top: 1vh;
+}
+
+.img-logo{
+  width: 9vw;
+  height: 15vh;
+}
+
+.oi{
+font-size: xx-large;
+}
+
+.opcao{
+font-size: xx-large;
+}
+
+
+.figure-img{
+  height: 30vh;
+  width: 50vw;
+
+}
+
+.botao-volta{
+  width: 1vw; 
+  height: 1vh; 
+  margin-top: 5vh;
+
+}
+
+ .procurar{
+  margin-top: 1vh;
+  width: 40vw;
+ }
+
+ .envio{
+   width: 5vw;
+   height: 5vh;
+ }
+
+ .list{
+   width: 30vw;
+ }
+
+ .letra{
+  font-size: x-large;
+}
+
+.calendario{
+  width: 15vw;
+  height: 15vh;
+ 
+  
+}
+
+.uma-div-planos{
+  position: relative;
+  width: 60vw;
+  margin: 0 auto;
+  height: 50vh;
+
+}
+
+.compra{
+  text-align: center; 
+  font-size: large;
+  height: 7vh;
+  width: 20vw;
+}
+
+
+.detalhes2{
+ 
+  height: 4vh;
+  box-sizing: border-box;
+  background-size: cover;
+}
+
+.do1{
+  width: 40vw;
+  height: 70vh;
+}
+
+.do{
+  width: 40vw;
+  height: 70vh;
+}
+
+.uma-div-login{
+  position: relative;
+  padding-top: 10vh;
+  width: 60vw;
+  margin: 0 auto;
+  height: 50vh;
+}
+
+.margem{
+  margin-top: 10vh;
+}
+.uma-div-atividades{
+  position: relative;
+  padding-top: 5vh;
+  width: 50vw;
+  margin: 0 auto;
+  height: 40vh;
+ 
+}
+
+.login{
+  width: 10vw;
+  height: 20vh;
+ 
+}
+
+.letra2{
+  font-size: larger;
+  height: 5vh;
+  width: 100vh;
+}
+
+.letra3{
+  font-size: larger;
+}
+
+.uma-div-calorias{
+  position: relative;
+  padding-top: 5vh;
+  width: 40vw;
+  margin: 0 auto;
+  height: 70vh;
+}
+

@@ -1,0 +1,161 @@
+*{
+  margin:0px;
+  padding: 0px;
+  border: 0px;
+}
+ 
+.uma-div{
+  position: relative;
+  width: 70vw;
+  margin: 0 auto;
+  height: 9vh;
+}
+ 
+ .col{
+  background-color: black;
+  border: 2px solid transparent;
+}
+
+.row{
+  border: 2px solid;
+  border: transparent;
+}
+
+#img-fundo{
+  background-color: blue;
+  background-image: url("../imagens/menina-correndo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 85vh;
+
+  background-position: center;
+  box-sizing: border-box;
+}
+
+
+
+.center{
+  margin: auto;
+}
+
+.detalhes{
+ 
+  height: 5vh;
+  box-sizing: border-box;
+  background-size: cover;
+}
+
+.btn{
+  width: 60vw;
+  height: 9vh;
+  background-size: contain;
+  margin-right: 8vw;
+ margin-bottom: 3vh;
+ margin-top: 1vh;
+}
+
+
+.img-logo{
+  width: 11vw;
+  height: 15vh;
+}
+
+
+.footer{
+  margin-top: 15vh;
+  width: 45vw;
+
+  align-content: center;
+}
+
+.figure-img{
+  height: 20vh;
+  width: 50vw;
+
+}
+
+.botao-volta{
+  width: 3vw; 
+  height: 3vh; 
+
+
+}
+
+.list{
+  width: 40vw;
+}
+
+.letra{
+  font-size: larger;
+}
+
+
+.calendario{
+  width: 20vw;
+  height: 20vh;
+}
+
+
+
+.uma-div-planos{
+  position: relative;
+  width: 70vw;
+  margin: 0 auto;
+  height: 8vh;
+}
+
+.compra{
+  text-align: center; 
+  font-size: large;
+}
+
+
+.detalhes2{
+ 
+  height: 4vh;
+  box-sizing: border-box;
+  background-size: cover;
+  
+}
+
+
+.do1{
+  width: 50vw;
+  height: 75vh;
+}
+
+.do{
+  width:50vh;
+  height: 75vh;
+}
+
+.uma-div-login{
+  position: relative;
+  width: 50vw;
+  margin: 0 auto;
+  height: 8vh;
+}
+
+
+.margem{
+  margin-top: 10vh;
+}
+
+
+.uma-div-atividades{
+  position: relative;
+  width: 60vw;
+  margin: 0 auto;
+  height: 40vh;
+
+}
+
+.uma-div-calorias{
+  position: relative;
+  width: 60vw;
+  margin: 0 auto;
+  height: 40vh;
+
+}
+
+

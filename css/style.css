@@ -1,0 +1,146 @@
+*{
+  margin:0px;
+  padding: 0px;
+  border: 0px;
+}
+ 
+.uma-div{
+  position: relative;
+  width: 100vw;
+  margin: 0 auto;
+  height: 10vh;
+ 
+}
+
+ .col{
+  background-color: black;
+  border: 0px;
+}
+
+.row{
+  border: 0px;
+  
+}
+
+#img-fundo{
+  background-color: blue;
+  background-image: url("../imagens/menina-correndo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 90vh;
+
+  background-position: center;
+  box-sizing: border-box;
+}
+
+
+.center{
+  margin: auto;
+}
+
+.detalhes{
+ 
+  height: 10vh;
+  box-sizing: border-box;
+  background-size: cover;
+}
+
+.btn{
+  width: 60vw;
+  height: 9vh;
+  background-size: contain;
+  margin-right: 8vw;
+  margin-bottom: 3vh;
+   margin-top: 1vh;
+}
+
+
+.img-logo{
+  
+}
+
+.rodape{
+}
+
+
+.footer{
+  margin-top: 15vh;
+  width: 45vw;
+
+  align-content: center;
+}
+
+.list{
+  width: 60vw;
+}
+
+.letra{
+  font-size: larger;
+}
+
+
+.calendario{
+  width: 20vw;
+  height: 20vh;
+ 
+}
+
+
+
+.uma-div-planos{
+  position: relative;
+  width: 100vw;
+  margin: 0 auto;
+  height: 30vh;
+}
+
+.compra{
+  text-align: center; 
+  font-size: medium;
+}
+
+.detalhes2{
+ 
+  height: 3vh;
+  box-sizing: border-box;
+  background-size: cover;
+}
+
+
+.do1{
+  width: 90vw;
+  height: 70vh;
+}
+
+.do{
+  width:50vh;
+  height: 70vh;
+}
+
+.uma-div-login{
+  position: relative;
+  width: 100vw;
+  margin: 0 auto;
+  height: 80vh;
+}
+
+.margem{
+  margin-top: 10vh;
+}
+
+
+.uma-div-atividades{
+  position: relative;
+  width: 100vw;
+  margin: 0 auto;
+  height: 30vh;
+  
+}
+
+.uma-div-calorias{
+  position: relative;
+  width: 100vw;
+  margin: 0 auto;
+  height: 50vh;
+}
+
